@@ -40,7 +40,7 @@ def main():
         return 
     
     # Ask the user to ask a question or press Return to exit
-    user_input = input("Ask teh Magic 8 Ball a yes or no question (or press Return to quit):")
+    user_input = input("Ask the Magic 8 Ball a yes or no question (or press Return to quit):")
 
     # Continue as long as the user input is empty
     while user_input.strip():

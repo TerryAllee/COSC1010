@@ -54,7 +54,7 @@ def main():
         # User to ask another question or quit the program
         user_input = input("\nAsk anotehr yes or no question (or press RETURN to quit)")
     
-    # Print goodbye message with teh user quits
+    # Print goodbye message with the user quits
     print("Goodbye! Remember, the Magic 8 Ball is here for more questions.")
 
 # Run the main function when this file is executed

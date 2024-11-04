@@ -52,7 +52,7 @@ def main():
         print ("Magic 8 Ball says:", response)
 
         # User to ask another question or quit the program
-        user_input = input("\nAsk anotehr yes or no question (or press RETURN to quit)")
+        user_input = input("\nAsk another yes or no question (or press RETURN to quit)")
     
     # Print goodbye message with the user quits
     print("Goodbye! Remember, the Magic 8 Ball is here for more questions.")
